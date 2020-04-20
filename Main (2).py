@@ -1,5 +1,6 @@
 #Import modules
-
+import turtle
+import wikipedia 
 #Class creation for question system
 class Question:
     def __init__(self, prompt, answer):
